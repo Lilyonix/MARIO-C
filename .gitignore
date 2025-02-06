@@ -1,6 +1,5 @@
 # Ignorer les dossiers générés par CLion
 .idea/
-cmake-build-debug/
 
 # Fichiers binaires ou objets
 *.exe
