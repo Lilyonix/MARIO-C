@@ -1,0 +1,14 @@
+# Ignorer les dossiers générés par CLion
+.idea/
+cmake-build-debug/
+
+# Fichiers binaires ou objets
+*.exe
+*.obj
+*.o
+*.log
+*.ninja
+
+# Fichiers de configuration spécifiques à l'utilisateur
+CMakeLists.txt.user
+
